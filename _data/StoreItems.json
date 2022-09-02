@@ -6953,7 +6953,151 @@
       "category": "Misc",
       "defname": "WeatherEmiter",
       "price": 2792
+    },
+    {
+      "abr": "commandoarmor",
+      "category": "Armor",
+      "defname": "SF_CommandoArmor",
+      "price": 4333
+    },
+    {
+      "abr": "commandoarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_CommandoArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "defenderpowerarmor",
+      "category": "Armor",
+      "defname": "SF_DefenderPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "defenderpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_DefenderPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "diplomatpowerarmor",
+      "category": "Armor",
+      "defname": "SF_DiplomatPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "diplomatpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_DiplomatPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "engineerpowerarmor",
+      "category": "Armor",
+      "defname": "SF_EngineerPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "engineerpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_EngineerPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "explorerpowerarmor",
+      "category": "Armor",
+      "defname": "SF_ExplorerPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "explorerpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ExplorerPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "grenadierpowerarmor",
+      "category": "Armor",
+      "defname": "SF_GrenadierPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "grenadierpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_GrenadierPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "hazardoperationsarmor",
+      "category": "Armor",
+      "defname": "SF_HazardOperationsArmor",
+      "price": 4333
+    },
+    {
+      "abr": "hazardoperationshelmet",
+      "category": "Headgear",
+      "defname": "SF_HazardOperationsArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "poweredassaultarmor",
+      "category": "Armor",
+      "defname": "SF_PoweredAssaultArmor",
+      "price": 4333
+    },
+    {
+      "abr": "poweredassaultarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_PoweredAssaultArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "reconpowerarmor",
+      "category": "Armor",
+      "defname": "SF_ReconPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "reconpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ReconPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "samuraipowerarmor",
+      "category": "Armor",
+      "defname": "SF_SamuraiPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "samuraipowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_SamuraiPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "scoutpowerarmor",
+      "category": "Armor",
+      "defname": "SF_ScoutPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "scoutpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ScoutPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "shocktrooperarmor",
+      "category": "Armor",
+      "defname": "SF_ShockTrooperArmor",
+      "price": 4333
+    },
+    {
+      "abr": "shocktrooperarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ShockTrooperArmorHelmet",
+      "price": 1750
     }
   ],
-  "total": 1159
+  "total": 1183
 }

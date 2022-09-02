@@ -738,6 +738,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "No Pause Challenge",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "the_heye",
     "name": "Twitch Chat",
     "steamId": "2075845400",

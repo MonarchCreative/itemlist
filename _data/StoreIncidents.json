@@ -322,17 +322,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 20000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 1000,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 5000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -367,7 +367,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -432,22 +432,22 @@
 	},
 	{
 		"abr": "iceage",
-		"price": 10000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "globalwarming",
-		"price": 10000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "psychicrain",
-		"price": 10000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "longnight",
-		"price": 10000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
