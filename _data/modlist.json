@@ -458,8 +458,8 @@
   {
     "author": "DimonSever000",
     "name": "Events+",
-    "steamId": "2599784515",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Albion",
@@ -642,12 +642,6 @@
     "version": null
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
     "author": "Wolfcub05",
     "name": "Draftable Animals",
     "steamId": null,
@@ -696,12 +690,6 @@
     "version": null
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.8.7"
-  },
-  {
     "author": "R-MK",
     "name": "Anthro Race",
     "steamId": null,
@@ -748,6 +736,12 @@
     "name": "Vanilla Persona Weapons Expanded",
     "steamId": "2826922787",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "No Pause Challenge",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "the_heye",
